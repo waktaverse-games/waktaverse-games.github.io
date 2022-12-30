@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/waktaverse-games/waktaverse-games.github.io/static/js/main.fe461e5c.js",
-    "index.html": "/waktaverse-games/waktaverse-games.github.io/index.html",
-    "main.fe461e5c.js.map": "/waktaverse-games/waktaverse-games.github.io/static/js/main.fe461e5c.js.map"
+    "main.js": "/static/js/main.fe461e5c.js",
+    "index.html": "/index.html",
+    "main.fe461e5c.js.map": "/static/js/main.fe461e5c.js.map"
   },
   "entrypoints": [
     "static/js/main.fe461e5c.js"
